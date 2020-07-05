@@ -1,6 +1,7 @@
 {
   "name": "pwa-angular-indexeddb",
   "version": "0.0.0",
+  "author": "Jan Pierre Sánchez - gamunax",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -19,6 +20,7 @@
     "@angular/platform-browser": "~9.1.6",
     "@angular/platform-browser-dynamic": "~9.1.6",
     "@angular/router": "~9.1.6",
+    "bootstrap": "^4.5.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
